@@ -1,2 +1,3 @@
-# CoPolit_2nd
-This is my test repository to develop my AI skill from beginning remotely.
+Created to accommodate developed user/private's agents, skills, etc.
+
+-try uploading
